@@ -1,0 +1,1 @@
+##### Node JS Platform uses “Single Threaded Event Loop” architecture to handle multiple concurrent clients.
